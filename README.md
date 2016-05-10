@@ -3,3 +3,5 @@ The `collapsed_outputs.tpl` template preserves collapsed outputs after conversio
 Put it in your templates directory, see template_path in jupyter_nbconvert_config.json
 
 Usage: `jupyter nbconvert --template collapsed_outputs FILE.ipynb`
+
+See an example result at: https://cdn.rawgit.com/jfbercher/test/master/experiment_collapse.html
